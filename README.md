@@ -1,16 +1,48 @@
-## Hi there 👋
+# Markus Bramberger
 
-<!--
-**Bramzke/Bramzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with focus on .NET / C#  
+Background in Mechatronics · Interest in clean architecture and modern software development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+I am a trained software developer with hands-on experience in .NET, C# and REST APIs.
+My background in mechatronics gives me a solid understanding of technical systems,
+interfaces and structured problem solving.
+
+I enjoy working in teams, learning continuously and applying modern tools and practices
+to build maintainable software solutions.
+
+---
+
+## Selected Projects
+
+### Blazor Open-Data Dashboard
+Single-page web application for visualizing and comparing Austrian weather measurement stations  
+based on the Geosphere Austria API.
+
+- Tech: Blazor, .NET, REST API
+- 🔗 Live Demo: https://bramzke.github.io/WeatherChart/
+
+---
+
+### React SPA – Historical Number System Converter
+Web-based converter for Mesopotamian sexagesimal numeral symbols.
+
+- Tech: React, JavaScript
+- 🔗 Live Demo: https://bramzke.github.io/Cuneiform/
+- 🔗 Repository: https://github.com/Bramzke/Cuneiform
+
+---
+
+## Tech Stack (excerpt)
+- C#, .NET, REST APIs
+- Blazor, basic React knowledge
+- SQL, HTML, CSS
+- Git, GitHub
+
+---
+
+## Contact
+- LinkedIn: https://linkedin.com/in/markus-bramberger-0912ab16a
+
