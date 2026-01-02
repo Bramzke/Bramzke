@@ -15,14 +15,15 @@ to build maintainable software solutions.
 
 ---
 
-## Selected Projects
+## Selected Open Source Projects
 
-### Blazor Open-Data Dashboard
+### Blazor SPA - Austrian Weather Chart
 Single-page web application for visualizing and comparing Austrian weather measurement stations  
 based on the Geosphere Austria API.
 
 - Tech: Blazor, .NET, REST API
 - 🔗 Live Demo: https://bramzke.github.io/WeatherChart/
+- 🔗 Repository: https://github.com/Bramzke/WeatherChart-Source
 
 ---
 
