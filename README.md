@@ -36,14 +36,6 @@ Web-based converter for Mesopotamian sexagesimal numeral symbols.
 
 ---
 
-## Tech Stack (excerpt)
-- C#, .NET, REST APIs
-- Blazor, basic React knowledge
-- SQL, HTML, CSS
-- Git, GitHub
-
----
-
 ## Contact
 - LinkedIn: https://linkedin.com/in/markus-bramberger-0912ab16a
 
