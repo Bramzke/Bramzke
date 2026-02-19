@@ -27,10 +27,20 @@ based on the Geosphere Austria API.
 
 ---
 
+### React SPA – Austrian Weather Chart
+Single-page web application for visualizing and comparing Austrian weather measurement stations  
+based on the Geosphere Austria API. (React-version is more memory-efficient than Blazor)
+
+- Tech: React, TypeScript, REST API
+- 🔗 Live Demo: https://bramzke.github.io/atWeather/
+- 🔗 Repository: https://github.com/Bramzke/atWeather
+
+---
+
 ### React SPA – Historical Number System Converter
 Web-based converter for Mesopotamian sexagesimal numeral symbols.
 
-- Tech: React, JavaScript
+- Tech: React, TypeScript
 - 🔗 Live Demo: https://bramzke.github.io/Cuneiform/
 - 🔗 Repository: https://github.com/Bramzke/Cuneiform
 
